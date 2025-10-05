@@ -1,0 +1,101 @@
+UserId,Weather,Clothing,Rating
+1,Humid,Blazer,2.2
+1,Rainy,Blazer,2.8
+1,Sunny,Hoodie,2.5
+1,Sunny,Jeans,3.8
+2,Cloudy,Hoodie,4.1
+2,Cloudy,Jeans,3.8
+2,Humid,Cardigan,4.0
+2,Humid,Joggers,3.7
+2,Rainy,Long-sleeve shirt,3.8
+2,Rainy,T-shirt,3.6
+2,Snowy,Hoodie,3.7
+2,Sunny,Jeans,3.5
+2,Sunny,Polo,4.3
+2,Windy,Shorts,3.0
+3,Humid,Chinos,3.7
+3,Rainy,Long-sleeve shirt,3.2
+3,Rainy,Polo,2.8
+3,Snowy,Coat,4.8
+3,Snowy,Long-sleeve shirt,2.7
+3,Sunny,Shorts,4.1
+3,Windy,Coat,3.0
+4,Rainy,Hoodie,3.0
+4,Sunny,Blazer,2.6
+4,Sunny,Chinos,3.5
+4,Sunny,Joggers,2.4
+5,Cloudy,Coat,3.3
+5,Cloudy,Sweatshirt,4.0
+5,Rainy,Polo,4.0
+5,Windy,Shorts,2.2
+5,Windy,T-shirt,3.7
+6,Snowy,T-shirt,3.0
+6,Snowy,T-shirt,1.0
+7,Cloudy,Hoodie,4.6
+7,Humid,Blazer,2.6
+7,Humid,Cardigan,3.7
+7,Humid,Sweatshirt,1.8
+8,Cloudy,Long-sleeve shirt,4.6
+8,Cloudy,Sweatshirt,3.2
+8,Rainy,Blazer,2.2
+8,Rainy,Long-sleeve shirt,2.7
+8,Snowy,Long-sleeve shirt,3.9
+9,Humid,Cardigan,3.3
+9,Rainy,Blazer,2.9
+9,Rainy,Coat,4.0
+9,Rainy,Hoodie,4.5
+9,Rainy,Jeans,3.8
+9,Snowy,Polo,3.3
+9,Sunny,Long-sleeve shirt,3.5
+9,Windy,Coat,3.3
+10,Humid,Dress pants,3.8
+10,Humid,Joggers,3.2
+10,Rainy,T-shirt,2.5
+10,Snowy,Jeans,3.9
+10,Windy,Coat,3.6
+11,Rainy,Cardigan,3.0
+11,Sunny,Joggers,2.5
+12,Rainy,Jeans,2.7
+12,Snowy,Chinos,2.9
+12,Snowy,Joggers,2.9
+12,Windy,Chinos,3.9
+12,Windy,Hoodie,3.7
+12,Windy,Sweatshirt,4.4
+13,Cloudy,Long-sleeve shirt,3.4
+13,Cloudy,Shorts,3.3
+14,Humid,Blazer,3.6
+14,Rainy,Shorts,2.0
+14,Rainy,Sweatshirt,2.9
+14,Windy,Long-sleeve shirt,3.5
+14,Windy,T-shirt,2.2
+15,Cloudy,Chinos,3.4
+15,Rainy,Sweatshirt,2.3
+15,Snowy,Sweatshirt,5.0
+15,Windy,Sweatshirt,4.8
+16,Rainy,Chinos,3.8
+16,Rainy,Joggers,2.3
+16,Snowy,Hoodie,3.3
+17,Rainy,T-shirt,3.9
+17,Snowy,Sweatshirt,5.0
+17,Sunny,Dress pants,2.6
+18,Cloudy,Cardigan,3.1
+18,Cloudy,Coat,3.7
+18,Humid,Blazer,3.0
+18,Rainy,Cardigan,2.6
+18,Rainy,Sweatshirt,3.1
+18,Snowy,Hoodie,3.8
+18,Sunny,Blazer,2.6
+18,Sunny,Chinos,2.2
+18,Sunny,Dress pants,2.8
+18,Windy,Sweatshirt,4.1
+19,Rainy,Dress pants,3.2
+19,Snowy,Jeans,2.4
+19,Sunny,Long-sleeve shirt,3.5
+19,Windy,Hoodie,3.5
+19,Windy,Jeans,3.9
+19,Windy,Polo,2.9
+19,Windy,Shorts,2.5
+20,Humid,Polo,3.7
+20,Snowy,Hoodie,5.0
+20,Sunny,Chinos,3.3
+20,Sunny,Joggers,2.4
