@@ -1,0 +1,204 @@
+UserId,Weather,Clothing,Event,Season,Rating
+1,Sunny,T-shirt,Casual Outing,Summer,5.0
+1,Hot,Shorts,Exercise,Summer,4.0
+1,Rainy,Hoodie,School,Fall,3.0
+1,Cold,Jacket,Travel,Winter,4.0
+1,Sunny,Sweater,Family Event,Spring,5.0
+1,Hot,Shorts,Beach,Summer,5.0
+1,Windy,Hoodie,School,Winter,4.0
+1,Rainy,Blazer,Work,Fall,4.0
+1,Cold,Long Sleeve,School,Winter,3.0
+1,Sunny,Pants,Work,Spring,3.0
+2,Cold,Long Sleeve,School,Winter,5.0
+2,Windy,Pants,Work,Fall,4.0
+2,Sunny,Jacket,Travel,Spring,3.0
+2,Hot,Shorts,Exercise,Summer,5.0
+2,Hot,Jeans,Casual Outing,Summer,4.0
+2,Rainy,Cardigan,Family Event,Fall,3.0
+2,Sunny,Hoodie,School,Spring,5.0
+2,Windy,Blazer,Work,Winter,4.0
+3,Hot,Jeans,Casual Outing,Summer,5.0
+3,Rainy,Sweater,Casual Home,Fall,4.0
+3,Cold,Polo,Work,Winter,3.0
+3,Sunny,T-shirt,Casual Outing,Spring,4.0
+3,Cold,Hoodie,School,Winter,5.0
+3,Windy,T-shirt,Shopping,Winter,3.0
+3,Cold,Pants,Work,Winter,5.0
+4,Sunny,Blazer,Work,Spring,5.0
+4,Windy,Skirt,Casual Outing,Fall,4.0
+4,Rainy,Cardigan,Family Event,Spring,3.0
+4,Sunny,Pants,Work,Spring,4.0
+4,Hot,Jeans,Casual Outing,Summer,4.0
+4,Hot,Hoodie,School,Summer,4.0
+4,Hot,Sweater,Family Event,Summer,4.0
+4,Sunny,Cardigan,Family Event,Spring,5.0
+5,Hot,Hoodie,School,Summer,5.0
+5,Cold,T-shirt,Casual Outing,Winter,4.0
+5,Sunny,Shorts,Beach,Summer,3.0
+5,Cold,Pants,Work,Winter,5.0
+5,Windy,Blazer,Work,Fall,5.0
+5,Cold,Shorts,Gym,Winter,5.0
+5,Sunny,Jeans,Casual Outing,Spring,5.0
+5,Windy,Polo,Work,Winter,3.0
+5,Cold,Jacket,Travel,Winter,4.0
+6,Windy,Sweater,Casual Home,Fall,4.0
+6,Sunny,Jacket,Travel,Summer,5.0
+6,Cold,Pants,Work,Winter,3.0
+6,Windy,Sweater,Casual Home,Winter,4.0
+6,Hot,Jacket,Travel,Summer,4.0
+6,Sunny,T-shirt,Casual Outing,Summer,4.0
+6,Rainy,T-shirt,Shopping,Spring,3.0
+6,Hot,Blazer,Work,Summer,5.0
+6,Sunny,Hoodie,School,Spring,4.0
+7,Hot,T-shirt,Casual Outing,Summer,5.0
+7,Rainy,Hoodie,School,Fall,4.0
+7,Cold,Long Sleeve,School,Winter,3.0
+7,Hot,Jeans,Casual Outing,Summer,5.0
+7,Cold,T-shirt,Casual Outing,Winter,5.0
+7,Hot,Hoodie,School,Summer,5.0
+7,Rainy,T-shirt,Shopping,Spring,4.0
+7,Cold,Sweater,Casual Home,Winter,5.0
+7,Windy,Pants,Work,Winter,3.0
+8,Cold,Jeans,Casual Outing,Winter,5.0
+8,Sunny,Skirt,Casual Outing,Spring,4.0
+8,Hot,Polo,Casual Outing,Summer,3.0
+8,Sunny,Blazer,Work,Spring,4.0
+8,Sunny,Shorts,Beach,Summer,4.0
+8,Windy,Cardigan,Family Event,Fall,5.0
+8,Sunny,Polo,Casual Outing,Spring,5.0
+8,Rainy,Hoodie,School,Fall,5.0
+8,Sunny,T-shirt,Casual Outing,Spring,4.0
+9,Hot,Hoodie,School,Summer,5.0
+9,Sunny,Shorts,Beach,Summer,4.0
+9,Cold,T-shirt,Casual Outing,Winter,3.0
+9,Cold,T-shirt,Casual Outing,Winter,5.0
+9,Windy,Hoodie,School,Winter,5.0
+9,Cold,Jeans,Casual Outing,Winter,4.0
+9,Hot,Cardigan,Family Event,Summer,3.0
+9,Sunny,Hoodie,School,Spring,4.0
+9,Hot,Blazer,Work,Summer,4.0
+10,Sunny,Jacket,Travel,Summer,5.0
+10,Rainy,Blazer,Work,Fall,4.0
+10,Windy,Sweater,Casual Home,Winter,3.0
+10,Hot,Hoodie,School,Summer,4.0
+10,Sunny,Hoodie,School,Spring,4.0
+10,Hot,Blazer,Work,Summer,4.0
+10,Windy,Jacket,Travel,Winter,5.0
+10,Sunny,Shorts,Beach,Summer,4.0
+10,Cold,Hoodie,School,Winter,5.0
+11,Hot,Jeans,Casual Outing,Summer,5.0
+11,Sunny,Cardigan,Family Event,Spring,4.0
+11,Cold,Hoodie,School,Winter,3.0
+11,Sunny,Shorts,Beach,Summer,5.0
+11,Cold,Jeans,Casual Outing,Winter,5.0
+11,Windy,Jeans,Casual Outing,Fall,3.0
+11,Sunny,Polo,Work,Spring,5.0
+12,Windy,Polo,Work,Fall,5.0
+12,Sunny,T-shirt,Casual Outing,Spring,4.0
+12,Hot,Shorts,Exercise,Summer,3.0
+12,Cold,Polo,Work,Winter,4.0
+12,Hot,T-shirt,Casual Outing,Summer,4.0
+12,Rainy,Sweater,Casual Home,Fall,3.0
+12,Sunny,Sweater,Family Event,Spring,4.0
+12,Sunny,Shorts,Beach,Summer,5.0
+13,Rainy,Sweater,Casual Home,Fall,5.0
+13,Hot,Jacket,Travel,Summer,4.0
+13,Sunny,Jeans,Casual Outing,Spring,3.0
+13,Rainy,Jacket,Travel,Fall,5.0
+13,Hot,Polo,Casual Outing,Summer,5.0
+13,Cold,Jacket,Travel,Winter,5.0
+13,Sunny,Hoodie,School,Spring,4.0
+14,Cold,Hoodie,School,Winter,5.0
+14,Sunny,Blazer,Work,Spring,4.0
+14,Hot,T-shirt,Casual Outing,Summer,3.0
+14,Hot,Sweater,Family Event,Summer,4.0
+14,Windy,Jacket,Travel,Winter,4.0
+14,Hot,Blazer,Work,Summer,3.0
+14,Windy,T-shirt,Shopping,Fall,5.0
+15,Windy,Shorts,Gym,Fall,5.0
+15,Cold,Pants,Work,Winter,4.0
+15,Sunny,Sweater,Family Event,Spring,3.0
+15,Windy,Hoodie,School,Winter,5.0
+15,Cold,T-shirt,Casual Outing,Winter,5.0
+15,Cold,Polo,Work,Winter,4.0
+15,Sunny,Cardigan,Family Event,Spring,5.0
+16,Hot,Hoodie,School,Summer,5.0
+16,Rainy,T-shirt,Shopping,Spring,4.0
+16,Cold,Jacket,Travel,Winter,3.0
+16,Cold,Shorts,Gym,Winter,4.0
+16,Sunny,Hoodie,School,Spring,4.0
+16,Cold,Jeans,Casual Outing,Winter,4.0
+16,Windy,Sweater,Casual Home,Fall,4.0
+16,Hot,Jeans,Casual Outing,Summer,3.0
+17,Sunny,Polo,Work,Spring,5.0
+17,Windy,Jeans,Casual Outing,Fall,4.0
+17,Hot,Shorts,Exercise,Summer,3.0
+17,Sunny,T-shirt,Casual Outing,Spring,5.0
+17,Sunny,Jacket,Travel,Spring,5.0
+17,Windy,Jeans,Casual Outing,Winter,4.0
+17,Cold,Hoodie,School,Winter,4.0
+17,Sunny,Pants,Work,Spring,5.0
+18,Cold,Sweater,Casual Home,Winter,5.0
+18,Sunny,T-shirt,Casual Outing,Spring,4.0
+18,Hot,Hoodie,School,Summer,3.0
+18,Hot,Shorts,Exercise,Summer,4.0
+18,Cold,Pants,Work,Winter,4.0
+18,Sunny,Jacket,Travel,Spring,5.0
+18,Windy,Jacket,Travel,Fall,3.0
+18,Hot,T-shirt,Casual Outing,Summer,5.0
+19,Hot,Pants,Work,Summer,5.0
+19,Rainy,Jacket,Travel,Fall,4.0
+19,Cold,Shorts,Gym,Winter,3.0
+19,Windy,Hoodie,School,Winter,5.0
+19,Cold,T-shirt,Casual Outing,Winter,5.0
+19,Hot,Polo,Casual Outing,Summer,3.0
+19,Rainy,Hoodie,School,Fall,4.0
+19,Sunny,Hoodie,School,Spring,5.0
+20,Sunny,Hoodie,School,Spring,5.0
+20,Windy,Blazer,Work,Winter,4.0
+20,Hot,Polo,Casual Outing,Summer,3.0
+20,Rainy,Pants,Work,Fall,4.0
+20,Cold,T-shirt,Casual Outing,Winter,5.0
+20,Cold,Jeans,Casual Outing,Winter,5.0
+20,Hot,Hoodie,School,Summer,4.0
+20,Windy,Blazer,Work,Winter,4.0
+21,Sunny,T-shirt,Casual Outing,Spring,4.0
+21,Hot,Shorts,Exercise,Summer,5.0
+21,Rainy,Hoodie,School,Fall,4.0
+21,Cold,Pants,Work,Winter,3.0
+21,Windy,Blazer,Work,Winter,4.0
+21,Sunny,Shorts,Beach,Summer,5.0
+21,Cold,Jacket,Travel,Winter,4.0
+21,Sunny,Sweater,Family Event,Spring,5.0
+21,Hot,T-shirt,Casual Outing,Summer,4.0
+21,Rainy,Sweater,Casual Home,Fall,3.0
+22,Windy,Polo,Work,Fall,4.0
+22,Sunny,Hoodie,School,Spring,5.0
+22,Cold,Pants,Work,Winter,4.0
+22,Hot,Jeans,Casual Outing,Summer,3.0
+22,Sunny,Shorts,Beach,Summer,4.0
+22,Rainy,Cardigan,Family Event,Fall,5.0
+22,Cold,Jeans,Casual Outing,Winter,5.0
+22,Hot,Polo,Casual Outing,Summer,4.0
+22,Windy,Jacket,Travel,Winter,4.0
+22,Sunny,T-shirt,Casual Outing,Spring,5.0
+23,Cold,Sweater,Casual Home,Winter,5.0
+23,Hot,Hoodie,School,Summer,4.0
+23,Sunny,Cardigan,Family Event,Spring,4.0
+23,Rainy,Pants,Work,Fall,3.0
+23,Windy,T-shirt,Shopping,Fall,5.0
+23,Sunny,Pants,Work,Spring,5.0
+23,Hot,Shorts,Exercise,Summer,3.0
+23,Cold,Jacket,Travel,Winter,5.0
+23,Rainy,Hoodie,School,Fall,4.0
+23,Sunny,T-shirt,Casual Outing,Spring,4.0
+24,Hot,Sweater,Family Event,Summer,4.0
+24,Sunny,Blazer,Work,Spring,5.0
+24,Cold,T-shirt,Casual Outing,Winter,3.0
+24,Windy,Jeans,Casual Outing,Fall,4.0
+24,Rainy,Jacket,Travel,Fall,5.0
+24,Hot,Hoodie,School,Summer,5.0
+24,Sunny,T-shirt,Casual Outing,Spring,5.0
+24,Cold,Pants,Work,Winter,4.0
+24,Windy,Hoodie,School,Winter,4.0
+24,Sunny,Shorts,Beach,Summer,5.0
